@@ -9,13 +9,13 @@ V免签 是基于SpringBoot 2.1.1/ThinkPhP5.1 实现的一套免签支付程序�
  + 超简单Api使用，提供统一Api实现收款回调
  + 免费、开源
 
-> v免签开发交流群：992029073
+
 
 > bug反馈请建立issues
 
-> Java版服务端地址：【 https://github.com/szvone/Vmq 】
+> Java版服务端地址：【 https://github.com/haibinml/Vmq 】
 
-> PHP 版服务端地址：【 https://github.com/szvone/vmqphp 】
+> PHP 版服务端地址：【 https://github.com/haibinml/vmqphp 】
 
 ## 前言
 
@@ -123,7 +123,7 @@ V免签为完全开源项目，开源项目意味着作者没有任何收入来�
 V免签遵循 MIT License 开源协议发布，并提供免费使用，请勿用于非法用途。
 
 
-版权所有Copyright © 2019 by vone (http://szvone.cn)
+版权所有Copyright © 2019 by vone (http://haibinml.cn)
 
 All rights reserved。
 
